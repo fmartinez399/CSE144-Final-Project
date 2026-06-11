@@ -4,7 +4,7 @@ Fine-tuning an ImageNet-pretrained EfficientNet-B3 to classify a 100-class datas
 
 **Kaggle public leaderboard score: 0.763** (baseline: 0.60)
 
-![Leaderboard](leaderboard.png)
+![Leaderboard](kaggle_leaderboard.png)
 
 ## Repository contents
 
