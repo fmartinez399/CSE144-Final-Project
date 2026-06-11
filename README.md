@@ -34,7 +34,7 @@ Google Colab with a GPU runtime (tested on an NVIDIA Tesla T4). Uses Colab's def
 
 1. Open `CSE144_Final_Project.ipynb` in Google Colab (Runtime → Change runtime type → GPU).
 2. Download the competition data zip from the Kaggle page and upload it to `/content/` as `ucsc-cse-144-spring-2026-final-project.zip`.
-3. Run all cells top to bottom. Training takes ~30–40 minutes on a T4.
+3. Run all cells top to bottom. Training takes ~15–20 minutes on a T4.
 4. The best checkpoint is saved to `/content/best_effb3_dropout.pth` and the submission file to `/content/submission_effb3_dropout.csv`.
 
 ### Inference only (using the provided weights)
