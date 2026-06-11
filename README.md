@@ -11,7 +11,7 @@ Fine-tuning an ImageNet-pretrained EfficientNet-B3 to classify a 100-class datas
 - `CSE144_Final_Project.ipynb` — full training + inference notebook (Google Colab)
 - `CSE144_Final_Report.pdf` — project report
 - `leaderboard.png` — Kaggle leaderboard screenshot
-- Trained model weights (`best_effb3_dropout.pth`, ~50 MB): **[Google Drive link](PASTE_YOUR_DRIVE_LINK_HERE)**
+- Trained model weights (`best_effb3_dropout.pth`, ~50 MB): https://drive.google.com/drive/folders/13zYDzhd8qE6LBBKymw5Y6NpBWNkc3gDA?usp=drive_link
 
 ## Approach (summary)
 
